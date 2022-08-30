@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/colour-generator/static/css/main.84b8249a.chunk.css",
+    "main.js": "/colour-generator/static/js/main.bace00cf.chunk.js",
+    "main.js.map": "/colour-generator/static/js/main.bace00cf.chunk.js.map",
+    "runtime-main.js": "/colour-generator/static/js/runtime-main.844830e7.js",
+    "runtime-main.js.map": "/colour-generator/static/js/runtime-main.844830e7.js.map",
+    "static/js/2.11f691c1.chunk.js": "/colour-generator/static/js/2.11f691c1.chunk.js",
+    "static/js/2.11f691c1.chunk.js.map": "/colour-generator/static/js/2.11f691c1.chunk.js.map",
+    "index.html": "/colour-generator/index.html",
+    "precache-manifest.94f1ee208ac521dfa2c2068505c5c418.js": "/colour-generator/precache-manifest.94f1ee208ac521dfa2c2068505c5c418.js",
+    "service-worker.js": "/colour-generator/service-worker.js",
+    "static/css/main.84b8249a.chunk.css.map": "/colour-generator/static/css/main.84b8249a.chunk.css.map",
+    "static/js/2.11f691c1.chunk.js.LICENSE.txt": "/colour-generator/static/js/2.11f691c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.844830e7.js",
+    "static/js/2.11f691c1.chunk.js",
+    "static/css/main.84b8249a.chunk.css",
+    "static/js/main.bace00cf.chunk.js"
+  ]
+}
