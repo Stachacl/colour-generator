@@ -1,4 +1,4 @@
-###Colour shades generating app.
+### Colour shades generating app.
 
 Technologies: React JS
 
